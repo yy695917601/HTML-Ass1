@@ -1,0 +1,21 @@
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+
+.project-section {
+    padding: 50px;
+    text-align:left;
+    background-color: #474e5d;
+    color: white;
+  }
+
+  li {
+    margin: 10px 0;
+  }
+
+  ul {
+    line-height: 45px;
+  }
